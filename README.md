@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o Miguel! 👋
 
-<!--
-**ogueell/ogueell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia na Cruzeiro do Sul e entusiasta de desenvolvimento Java. 
+Atualmente focado em aprender Programação Orientada a Objetos e boas práticas de código.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+- 🎓 Cursando Engenharia (Cruzeiro do Sul).
+- 🦅 Formado em Java e Socioemocional pela Gerando Falcões.
+- 💻 Estudando Java (POO e Encapsulamento) através da Alura.
+- 🚗 Atualmente trabalhando na Tenda Motors, desenvolvendo disciplina e atenção aos detalhes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagem:** Java (Variáveis, Condicionais, Laços e POO).
+- **Ferramentas:** IntelliJ IDEA, Git, GitHub.
+- **Outros:** Lógica de Programação, Pensamento Computacional.
+
+### 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/miguel-palmeira-485b05288)
+- E-mail: miguelpalmeira.dev@gmail.com
+
+---
+*“O código é como o motor de um carro: se cada peça estiver no lugar certo e bem cuidada, ele vai longe.”*
