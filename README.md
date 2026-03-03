@@ -1,23 +1,33 @@
-# Olá, eu sou o Miguel! 👋
+# Olá, eu sou o Miguel Palmeira! 👋
 
-Estudante de Engenharia na Cruzeiro do Sul e entusiasta de desenvolvimento Java. 
-Atualmente focado em aprender Programação Orientada a Objetos e boas práticas de código.
-
-### 🚀 Sobre mim
-- 🎓 Cursando Engenharia (Cruzeiro do Sul).
-- 🦅 Formado em Java e Socioemocional pela Gerando Falcões.
-- 💻 Estudando Java (POO e Encapsulamento) através da Alura.
-- 🚗 Atualmente trabalhando na Tenda Motors, desenvolvendo disciplina e atenção aos detalhes.
-
-### 🛠️ Tecnologias e Ferramentas
-- **Linguagem:** Java (Variáveis, Condicionais, Laços e POO).
-- **Ferramentas:** IntelliJ IDEA, Git, GitHub.
-- **Outros:** Lógica de Programação, Pensamento Computacional.
-
-### 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/miguel-palmeira-485b05288)
-- E-mail: miguelpalmeira.dev@gmail.com
+### 👨‍💻 Desenvolvedor Java em Formação | Estudante de Engenharia
 
 ---
-*“O código é como o motor de um carro: se cada peça estiver no lugar certo e bem cuidada, ele vai longe.”*
 
+### 📊 Minhas Estatísticas no GitHub:
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogueell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogueell&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
+
+### 🛠️ Tecnologias que estou praticando:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" target="_blank">
+</p>
+
+---
+
+### 📫 Como me encontrar:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-palmeira-485b05288)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelpalmeira.dev@gmail.com)
+
+---
+*"A lógica é o princípio da sabedoria, não o fim."*
