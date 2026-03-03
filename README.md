@@ -20,3 +20,6 @@ Atualmente focado em aprender Programação Orientada a Objetos e boas práticas
 
 ---
 *“O código é como o motor de um carro: se cada peça estiver no lugar certo e bem cuidada, ele vai longe.”*
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ogueell&show_icons=true&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ogueell&layout=compact&theme=dark)
