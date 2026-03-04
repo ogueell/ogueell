@@ -4,29 +4,26 @@
 
 ---
 
-### 📊 Estatísticas
+### 🚀 Sobre mim
+- 🎓 Cursando Engenharia (Cruzeiro do Sul)
+- 🦅 Formação Java, Inglês e Socioemocional pela Gerando Falcões
+- 💻 Estudando POO e Encapsulamento pela Alura
+- 🚗 Atualmente na Tenda Motors (Foco em qualidade e processos)
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
 <p align="left">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=ogueell&show_icons=true&theme=vision-friendly-dark" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogueell&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 ---
 
-### 🛠️ Tecnologias que estou praticando:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" target="_blank">
-</p>
+### 📫 Contato
+- **LinkedIn:** [Clique aqui para acessar](https://www.linkedin.com/in/miguel-palmeira-485b05288)
+- **E-mail:** miguelpalmeira.dev@gmail.com
 
 ---
-
-### 📫 Como me encontrar:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-palmeira-485b05288)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelpalmeira.dev@gmail.com)
-
----
-*"A lógica é o princípio da sabedoria, não o fim."*
+*"O código é como o motor de um carro: se cada peça estiver no lugar certo e bem cuidada, ele vai longe."*
