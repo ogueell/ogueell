@@ -12,6 +12,11 @@
 
 ---
 
+🏦 **Sistema Bancário** *(em desenvolvimento)* — Projeto pessoal simulando operações bancárias, aplicando lógica de programação e POO.
+  🔗 [Repositório]()
+
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
