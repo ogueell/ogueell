@@ -12,17 +12,17 @@
 
 ---
 
-🏦 **Sistema Bancário** *(em desenvolvimento)* — Projeto pessoal simulando operações bancárias, aplicando lógica de programação e POO.
-  🔗 [Repositório](https://github.com/ogueell/OGbank)
-
----
-
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </p>
+
+---
+
+🏦 **Sistema Bancário** *(em desenvolvimento)* — Projeto pessoal simulando operações bancárias, aplicando lógica de programação e POO.
+  🔗 [Repositório](https://github.com/ogueell/OGbank)
 
 ---
 
